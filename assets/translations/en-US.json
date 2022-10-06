@@ -1,0 +1,16 @@
+{
+  "splash": {
+    "title": "This is splash screen"
+  },
+  "login": {
+    "username": "Username",
+    "password": "Password",
+    "login": "Login",
+    "email": "Email",
+    "signUp": "Forgot your password?",
+    "or": "Or login with social account"
+  },
+  "home": {
+    "title": "Home Page"
+  }
+}
