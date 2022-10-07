@@ -9,6 +9,10 @@ abstract class  LocaleKeys {
   static const login_or = 'login.or';
   static const signUp = 'login.signUp';
   static const home_title = 'home.title';
-  static const home = 'home';
+  static const home = 'home.home';
+  static const shop = 'home.shop';
+  static const bag = 'home.bag';
+  static const favariles = 'home.favariles';
+  static const profile = 'home.profile';
 
 }

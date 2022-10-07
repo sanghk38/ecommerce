@@ -11,6 +11,10 @@
     "or": "Or login with social account"
   },
   "home": {
-    "title": "Home Page"
+    "home": "Home",
+    "shop": "Shop",
+    "bag": "Bag",
+    "favariles": "Favariles",
+    "profile": "Profile"
   }
 }
