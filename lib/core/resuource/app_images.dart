@@ -17,5 +17,7 @@ class AppImages {
   static const String bag_unselected = 'assets/images/ic_bag_unselected.svg';
   static const String favorites_unselected = 'assets/images/ic_favorites_unselected.svg';
   static const String profile_unselected = 'assets/images/ic_profile_unselected.svg';
+  static const String anh = 'assets/images/ic_anh_demo.jpg';
+  static const String love = 'assets/images/ic_icon_love.svg';
 
 }
