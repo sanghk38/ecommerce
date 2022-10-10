@@ -14,5 +14,10 @@ abstract class  LocaleKeys {
   static const bag = 'home.bag';
   static const favariles = 'home.favariles';
   static const profile = 'home.profile';
+  static const newView = 'home.new';
+  static const view_all = 'home.view_all';
+  static const slogin = 'home.slogin';
+  static const sale = 'home.sale';
+  static const slogin_sale = 'home.slogin_sale';
 
 }

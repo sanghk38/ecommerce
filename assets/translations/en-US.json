@@ -15,6 +15,11 @@
     "shop": "Shop",
     "bag": "Bag",
     "favariles": "Favariles",
-    "profile": "Profile"
+    "profile": "Profile",
+    "new": "New",
+    "view_all": "View all",
+    "slogin": "You’ve never seen it before!",
+    "sale": "Sale",
+    "slogin_sale": "Super summer sale"
   }
 }
